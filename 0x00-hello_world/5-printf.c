@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *Description: main - prints out a string to stout 
- *Return:0 if success
+ * Description: main - prints out a strint to stout
+ * Return: 0 if success
  */
 int main(void)
 {
