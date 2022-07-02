@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Description:main - prints out a string to stout
+ * Description: main - prints out a string to stout
  *
- * Description: Return 0 after printing the function
+ * Return: 0 if success
  */
 int main(void)
 {
