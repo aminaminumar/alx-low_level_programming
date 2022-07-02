@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main . entry point
+ * Description:main - prints out a string to stout
  *
  * Description: Return 0 after printing the function
  */
